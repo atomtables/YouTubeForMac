@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct YouTube_for_MacApp: App {
+struct YouTube_for_MacApp: App {    
     var body: some Scene {
         WindowGroup {
             ContentView()
